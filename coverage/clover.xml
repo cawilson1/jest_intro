@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1589210069787" clover="3.2.0">
+  <project timestamp="1589210069788" name="All files">
+    <metrics statements="5" coveredstatements="5" conditionals="7" coveredconditionals="7" methods="2" coveredmethods="2" elements="14" coveredelements="14" complexity="0" loc="5" ncloc="5" packages="1" files="1" classes="1"/>
+    <file name="filterByTermOrId.js" path="/Users/user/deletethis/cohort4/jest-testing/src/filterByTermOrId.js">
+      <metrics statements="5" coveredstatements="5" conditionals="7" coveredconditionals="7" methods="2" coveredmethods="2"/>
+      <line num="2" count="10" type="cond" truecount="4" falsecount="0"/>
+      <line num="3" count="9" type="stmt"/>
+      <line num="4" count="9" type="stmt"/>
+      <line num="5" count="27" type="cond" truecount="3" falsecount="0"/>
+      <line num="9" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
